@@ -9,6 +9,7 @@ import (
 
 func main() {
 	struct_sample.DoStructSamples()
+	struct_sample.DoStructExtendSamples()
 	array_sample.DoArraySample()
 	interface_sample.DoInterfaceSample()
 	goroutine_sample.DoGoroutineSample()
